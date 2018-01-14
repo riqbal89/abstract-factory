@@ -5,6 +5,12 @@ import com.rifatiqbal.abstract_factory_pattern.client.NYPizzaStore;
 import com.rifatiqbal.abstract_factory_pattern.client.PizzaStore;
 import com.rifatiqbal.abstract_factory_pattern.product.Pizza;
 
+/**
+ * 
+ * @author rifatiqbal
+ *
+ */
+
 public class Application {
 	
 	public static void main(String[] args) {
