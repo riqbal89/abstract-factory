@@ -6,7 +6,7 @@ import com.rifatiqbal.abstract_factory_pattern.client.PizzaStore;
 import com.rifatiqbal.abstract_factory_pattern.product.Pizza;
 
 /**
- * 
+ * A demonstration of the classes used in the abstract factory design pattern
  * @author rifatiqbal
  *
  */
